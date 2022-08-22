@@ -2,5 +2,8 @@
 Dashboard using R
 
 
-View Dashboard:
-[dashboard.html](https://rawcdn.githack.com/A-BS-H/Space-Mission/911e85f26353512521f9603f4c5d41f79101218c/dashboard.html)
+Dashboard:
+
+![image](https://user-images.githubusercontent.com/111043457/185849382-a1e0534a-d178-4ba7-872c-8b846e3179cd.png)
+
+![image](https://user-images.githubusercontent.com/111043457/185849617-99759203-bee9-4dfc-93f4-feba04edd9c9.png)
